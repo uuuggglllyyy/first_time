@@ -1,0 +1,30 @@
+# Windows system files
+AppData/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+"\320\267\320\260\320\272\320\260\321\202.psd"
+главное меню/
+Мои документы/
+Шаблоны/
+
+# Other system files
+*.log
+*.tmp
+Thumbs.db
+*.suo
+
+# Windows directories
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
